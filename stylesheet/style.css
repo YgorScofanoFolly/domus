@@ -147,6 +147,9 @@ align-items: flex-end;
 justify-content: center;
 height: 930px;
 }
+footer {
+background: #B9B9B9;
+}
 button {
 width: 95px;
 height: 11px;
@@ -162,7 +165,6 @@ margin: 0;
 .footer {
 padding-bottom: 54px;
 color: #171717;
-background: #B9B9B9;
 display: flex;
 align-items: center;
 justify-content: space-between;
